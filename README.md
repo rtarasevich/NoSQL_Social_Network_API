@@ -1,4 +1,4 @@
-# social-NW-api
+# NoSQL_Social_Network_API
 
 ## Description
 
